@@ -1,0 +1,61 @@
+
+body{
+	background: URL(../imagens/papel_amassado.jpg) repeat;
+	margin: 1px auto;
+	border: 2px solid white;
+	width: 900px;
+	height: 100%;
+	font-family: "trebuchet MS", Helvetica, consolas,sans-serif;
+}
+
+#cabecalho{
+	
+	width: 900px;
+	min-width: 600px;
+	height: 250px;
+	background: url(../imagens/oceano_cabecalho.jpg) no-repeat;
+	}
+
+#frase{
+	margin-top: 20px;
+	margin-right: 10px;
+	font-size: 20px;
+	float: right;
+}
+
+#foto{
+	background: url(../imagens/foto.jpg) no-repeat;
+	width: 171px;
+	height: 232px;
+	float: left;
+	margin: 2px 5px;
+}
+
+#apresentacao{
+	color: #34282c;
+	margin-top: 200px;
+	padding-left: 200px;
+
+}
+#texto{
+	text-indent: 30px;
+	clear: both;
+	list-style: none;
+}
+
+li{
+	font-size: 20px;
+}
+
+#rodape{
+	text-align: center;
+	line-height: 200px;
+	width: 900px;
+	min-width: 600px;
+	height: 200px;
+	background: url(../imagens/oceano_rodape.jpg) no-repeat;
+	}
+
+#nota{
+	text-align: center;
+}
